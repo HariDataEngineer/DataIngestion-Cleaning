@@ -1,2 +1,0 @@
-Contains the data from World bank WDI
-and CO2 emissions data
